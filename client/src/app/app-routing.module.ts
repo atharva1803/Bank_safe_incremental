@@ -40,4 +40,4 @@ const routes: Routes = [
   ],
   bootstrap: [AppComponent] // Bootstrap AppComponent
 })
-export class AppRoutingModule {}
+export class AppRoutingModule {}    
